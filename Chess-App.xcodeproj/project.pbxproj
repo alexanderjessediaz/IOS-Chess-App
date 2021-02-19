@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B3621AA25DF43C300DBF49B /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B3621A925DF43C300DBF49B /* TabBar.swift */; };
 		1B59053F25DDA037001FCA96 /* ChessApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B59053E25DDA037001FCA96 /* ChessApp.swift */; };
 		1B59054425DDA077001FCA96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B59054325DDA077001FCA96 /* ContentView.swift */; };
 		1B59054925DDA14D001FCA96 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B59054825DDA14D001FCA96 /* HomeView.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B3621A925DF43C300DBF49B /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 		1B59053E25DDA037001FCA96 /* ChessApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessApp.swift; sourceTree = "<group>"; };
 		1B59054325DDA077001FCA96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1B59054825DDA14D001FCA96 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				1B59054325DDA077001FCA96 /* ContentView.swift */,
+				1B3621A925DF43C300DBF49B /* TabBar.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				1B59054925DDA14D001FCA96 /* HomeView.swift in Sources */,
 				1B6C11B925DC92BA0093B537 /* AppDelegate.swift in Sources */,
 				1B6C11BB25DC92BA0093B537 /* SceneDelegate.swift in Sources */,
+				1B3621AA25DF43C300DBF49B /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
